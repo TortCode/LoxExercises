@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c61b46be-2b75-4b3a-80bb-d9da72b425be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoxExercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loxy/LoxInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loxy/LoxLexer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loxy/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loxy/TokenType.java" afterDir="false" />
+    <list default="true" id="c61b46be-2b75-4b3a-80bb-d9da72b425be" name="Changes" comment="Created Lox interpreter exercise">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +52,18 @@
       <workItem from="1649863236162" duration="1065000" />
       <workItem from="1649876342473" duration="913000" />
       <workItem from="1650026395477" duration="813000" />
+      <workItem from="1650207713294" duration="68000" />
+      <workItem from="1650207878411" duration="44000" />
+      <workItem from="1650207943801" duration="181000" />
     </task>
+    <task id="LOCAL-00001" summary="Created Lox interpreter exercise">
+      <created>1650207748137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650207748137</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Lox interpreter exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Lox interpreter exercise" />
   </component>
 </project>
