@@ -1,4 +1,4 @@
-package Loxy;
+package lox;
 
 enum TokenType {
     //punctuation
@@ -10,7 +10,7 @@ enum TokenType {
     EQUAL, EQUAL_EQUAL,
     BANG, BANG_EQUAL,
     LESS, LESS_EQUAL,
-    GREAT, GREAT_EQUAL,
+    GREATER, GREATER_EQUAL,
     //literal
     IDENTIFIER, NUMBER, STRING,
     //keywords

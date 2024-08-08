@@ -1,4 +1,4 @@
-package Loxy;
+package lox;
 
 import java.io.*;
 import java.nio.charset.Charset;
@@ -20,7 +20,7 @@ public class LoxInterpreter {
 
     private static void runFile(String path) throws IOException{
         byte[] text = Files.readAllBytes(Paths.get(path));
-        run(new String(text, Charset.defaultCharset());
+        run(new String(text, Charset.defaultCharset()));
 
         if (has_error)
             System.exit(65);
